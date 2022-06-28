@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 body{
     margin: 0;
     padding: 0;
@@ -138,5 +142,15 @@ section .footer .row ul li a{
     body{
         padding: 0;
         margin: 0;
+    }
+    section .main .searchbox {
+        width: 70%;
+    }
+    section .main .searchbox .scarch{
+        font-size: 10px;
+        width: 60%;
+    }
+    section header{
+        width: 80%;
     }
 }
